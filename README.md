@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h2 align="left">Hi 👋! My name is Purushotham Palla and I'm a Full stack Web Developer from  TAP Academy</h2>
-
+<!---
 ###
 
 <div align="center">
@@ -58,3 +58,4 @@ You can click the Preview link to take a look at your changes.
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
+--->
