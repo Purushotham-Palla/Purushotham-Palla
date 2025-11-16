@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Purushotham Palla</h1>
-<h3 align="center">Full Stack Developer • AI Explorer • Deploying Good Vibes to Prod 🌟</h3>
+<h3 align="center">Java Full Stack Developer • AI Explorer • Deploying Good Vibes to Prod 🌟</h3>
 
 ---
 
 ## 🚀 About Me
-I'm **Purushotham**, a Full Stack Developer and AI enthusiast who builds  
+I'm **Purushotham**, a Java Full Stack Developer and AI enthusiast who builds  
 web apps, RAG systems, and automation tools using Java, Python, and modern web tech.  
 I enjoy creating practical projects, exploring AI frameworks, and deploying useful tools for real users.
 
@@ -13,7 +13,7 @@ I enjoy creating practical projects, exploring AI frameworks, and deploying usef
 ## 🛠️ Tech Stack
 
 **Languages:**  
-Java • Python • TypeScript • HTML • CSS • SQL
+Java • Python • HTML • CSS • SQL
 
 **Frameworks & Tools:**  
 JSP/Servlet • Node.js • FAISS • HuggingFace • Gemini API • MySQL
@@ -102,4 +102,12 @@ A simple Java-based To-Do list management app.
 
 ---
 
-## 📫 Reach M
+## 📫 Reach Me
+
+📍 Bangalore  
+📧 **ppurushotham2001@gmail.com**  
+🔗 LinkedIn: https://linkedin.com/in/purushotham-palla
+
+---
+
+⭐ *If you like my projects, consider giving them a star!*
