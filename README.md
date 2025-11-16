@@ -1,61 +1,96 @@
-<!---- 👋 Hi, I’m @Purushotham-Palla
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Full-Stack Web Development 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
-<!---
-Purushotham-Palla/Purushotham-Palla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi 👋, I'm Purushotham Palla</h1>
+<h3 align="center">Full Stack Developer • AI Explorer • Deploying Good Vibes to Prod 🌟</h3>
 
-<h2 align="left">Hi 👋! My name is Purushotham Palla and I'm a Full stack Web Developer from  TAP Academy</h2>
-<!---
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 🚀 About Me
+I'm **Purushotham**, a Full Stack Developer and AI enthusiast who loves building  
+web applications, chatbots, RAG systems, and automation tools.  
+Currently exploring **AI + Web + RAG pipelines** and pushing projects into production.
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## 🧠 Tech Stack
 
-###
+**Languages:**  
+Java • Python • TypeScript • HTML • CSS
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+**Frameworks & Tools:**  
+JSP/Servlet • Node.js • React (basics) • FAISS • Gemini • HuggingFace • MySQL  
 
-###
+**Interests:**  
+RAG chatbots • AI automation • Web development • System design
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+---
 
-###
+## 📌 Featured Public Projects
 
-<br clear="both">
+### 🔹 **1. RAG Hybrid Pipeline**  
+*Web RAG Hybrid Chatbot (Gemini + HuggingFace + FAISS)*  
+A complete hybrid RAG system combining multiple LLMs and vector search.  
+**Tech:** Python  
+🔗 https://github.com/Purushotham-Palla/rag-hybrid-pipeline
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+---
 
-###
---->
+### 🔹 **2. Local RAG Website Chatbot**  
+A locally running RAG chatbot for website content search and Q&A.  
+**Tech:** Python  
+🔗 https://github.com/Purushotham-Palla/local-rag-website-chatbot
+
+---
+
+### 🔹 **3. Step-Video-T2V (Fork)**  
+Fork of StepFun AI’s Text-to-Video project for experimentation.  
+**Tech:** Python  
+🔗 https://github.com/Purushotham-Palla/Step-Video-T2V
+
+---
+
+### 🔹 **4. CustomerSync**  
+A MySQL-backed CRUD app for managing customer data with JSP/Servlet.  
+**Tech:** Java, MySQL  
+🔗 https://github.com/Purushotham-Palla/customersync
+
+---
+
+### 🔹 **5. Blog Application**  
+A blog management system with Admin & Viewer roles.  
+**Tech:** Java  
+🔗 https://github.com/Purushotham-Palla/blogApp
+
+---
+
+### 🔹 **6. E-Commerce UI**  
+Frontend UI design for an eCommerce website.  
+🔗 https://github.com/Purushotham-Palla/ecommerce
+
+---
+
+### 🔹 **7. Portfolio Website**  
+My personal static portfolio website.  
+🔗 https://github.com/Purushotham-Palla/portfolio  
+🌐 Live: https://palla-purushotham.000webhostapp.com/
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Purushotham-Palla&show_icons=true&theme=default" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purushotham-Palla&layout=compact" alt="languages" />
+</p>
+
+---
+
+## 📫 Reach Me
+📍 Bangalore  
+📧 **ppurushotham2001@gmail.com**  
+🔗 LinkedIn: https://linkedin.com/in/purushotham-palla-a8ab67229
+
+---
+
+⭐ *If you like my projects, consider giving them a star!*
