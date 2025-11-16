@@ -4,93 +4,102 @@
 ---
 
 ## 🚀 About Me
-I'm **Purushotham**, a Full Stack Developer and AI enthusiast who loves building  
-web applications, chatbots, RAG systems, and automation tools.  
-Currently exploring **AI + Web + RAG pipelines** and pushing projects into production.
+I'm **Purushotham**, a Full Stack Developer and AI enthusiast who builds  
+web apps, RAG systems, and automation tools using Java, Python, and modern web tech.  
+I enjoy creating practical projects, exploring AI frameworks, and deploying useful tools for real users.
 
 ---
 
-## 🧠 Tech Stack
+## 🛠️ Tech Stack
 
 **Languages:**  
-Java • Python • TypeScript • HTML • CSS
+Java • Python • TypeScript • HTML • CSS • SQL
 
 **Frameworks & Tools:**  
-JSP/Servlet • Node.js • React (basics) • FAISS • Gemini • HuggingFace • MySQL  
+JSP/Servlet • Node.js • FAISS • HuggingFace • Gemini API • MySQL
 
 **Interests:**  
-RAG chatbots • AI automation • Web development • System design
+AI Chatbots • RAG Pipelines • Web Development • Backend Engineering
 
 ---
 
 ## 📌 Featured Public Projects
 
-### 🔹 **1. RAG Hybrid Pipeline**  
+### 🔹 **1. RAG Hybrid Pipeline**
 *Web RAG Hybrid Chatbot (Gemini + HuggingFace + FAISS)*  
-A complete hybrid RAG system combining multiple LLMs and vector search.  
+A powerful hybrid RAG system combining LLMs with vector databases.  
 **Tech:** Python  
 🔗 https://github.com/Purushotham-Palla/rag-hybrid-pipeline
 
 ---
 
 ### 🔹 **2. Local RAG Website Chatbot**  
-A locally running RAG chatbot for website content search and Q&A.  
+Local RAG chatbot designed to answer questions from website content.  
 **Tech:** Python  
 🔗 https://github.com/Purushotham-Palla/local-rag-website-chatbot
 
 ---
 
-### 🔹 **3. Step-Video-T2V (Fork)**  
-Fork of StepFun AI’s Text-to-Video project for experimentation.  
-**Tech:** Python  
-🔗 https://github.com/Purushotham-Palla/Step-Video-T2V
+### 🔹 **3. Techplement**  
+Java learning & practice tasks.  
+**Tech:** Java  
+🔗 https://github.com/Purushotham-Palla/techplement
 
 ---
 
 ### 🔹 **4. CustomerSync**  
-A MySQL-backed CRUD app for managing customer data with JSP/Servlet.  
+A CRUD system for managing customer data using MySQL + JSP/Servlet.  
 **Tech:** Java, MySQL  
 🔗 https://github.com/Purushotham-Palla/customersync
 
 ---
 
-### 🔹 **5. Blog Application**  
-A blog management system with Admin & Viewer roles.  
+### 🔹 **5. Blog Application (v1)**  
+Blog application with Admin & Viewer roles + authentication.  
 **Tech:** Java  
-🔗 https://github.com/Purushotham-Palla/blogApp
+🔗 https://github.com/Purushotham-Palla/blogApplication1
 
 ---
 
-### 🔹 **6. E-Commerce UI**  
-Frontend UI design for an eCommerce website.  
-🔗 https://github.com/Purushotham-Palla/ecommerce
+### 🔹 **6. Student App**  
+Simple Java-based application for student management.  
+**Tech:** Java  
+🔗 https://github.com/Purushotham-Palla/student
 
 ---
 
 ### 🔹 **7. Portfolio Website**  
-My personal static portfolio website.  
+Personal portfolio website showing skills and projects.  
+**Tech:** HTML, CSS  
 🔗 https://github.com/Purushotham-Palla/portfolio  
 🌐 Live: https://palla-purushotham.000webhostapp.com/
+
+---
+
+### 🔹 **8. Amazon UI Clone**  
+UI clone of Amazon homepage.  
+**Tech:** HTML  
+🔗 https://github.com/Purushotham-Palla/amazonClone
+
+---
+
+### 🔹 **9. Todo Application**  
+A simple Java-based To-Do list management app.  
+**Tech:** Java  
+🔗 https://github.com/Purushotham-Palla/TodoApplication
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Purushotham-Palla&show_icons=true&theme=default" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Purushotham-Palla&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purushotham-Palla&layout=compact" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purushotham-Palla&layout=compact" />
 </p>
 
 ---
 
-## 📫 Reach Me
-📍 Bangalore  
-📧 **ppurushotham2001@gmail.com**  
-🔗 LinkedIn: https://linkedin.com/in/purushotham-palla-a8ab67229
-
----
-
-⭐ *If you like my projects, consider giving them a star!*
+## 📫 Reach M
