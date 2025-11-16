@@ -90,17 +90,6 @@ A simple Java-based To-Do list management app.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Purushotham-Palla&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purushotham-Palla&layout=compact" />
-</p>
-
----
 
 ## 📫 Reach Me
 
